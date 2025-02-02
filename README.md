@@ -1,5 +1,5 @@
 
-# 🚀 Amigo Secreto ALura
+# 🚀 Amigo Secreto Alura
 
 > Este projeto é uma aplicação interativa para organizar um Amigo Secreto de forma simples e eficiente! Criado como parte do Challenge da Alura, ele permite adicionar participantes, ver uma lista com os nomes participantes e realizar o sorteio.
 
@@ -33,6 +33,13 @@ Este projeto é uma aplicação simples e interativa para realizar um sorteio de
 ```bash
 # Clone o repositório
 git clone https://github.com/ZEROH16/Amigo-secreto
+
+## Baixe o zip
+Se você não estiver familiarizado com o Git, você pode baixar o projeto como um arquivo ZIP diretamente do GitHub:
+
+1. Acesse a página do meu repositório no GitHub: Amigo Secreto
+2. Clique no botão Code e depois em Baixar ZIP.
+3. Extraia o arquivo ZIP em seu computador e utilize-o em sua IDE.
 ```
 
 ---
