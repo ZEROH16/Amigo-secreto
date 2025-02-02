@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ZEROH16">
-    <img src="C:\Users\pedro\OneDrive\Área de Trabalho\AMIGO SECRETO ALURA\assets\Logo zeroh16.png" alt="Logo" width="80" height="80">
+    <img src="logozeroh16.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Amigo Secreto Alura</h3>
